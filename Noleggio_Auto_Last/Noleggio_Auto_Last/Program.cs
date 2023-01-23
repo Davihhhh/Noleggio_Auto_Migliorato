@@ -10,7 +10,7 @@ namespace Noleggio_Auto
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {            
             //variabili di prova
             string marca = "audi";
             string modello = "r8";

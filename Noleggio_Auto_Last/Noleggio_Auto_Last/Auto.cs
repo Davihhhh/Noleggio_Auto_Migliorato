@@ -230,8 +230,9 @@ public class Veicolo
 				val = rnd.Next(65, 91);
 				targa[a] = Convert.ToChar(val);
             }
-        }	
-		return targa.ToString();
+        }
+        string str = new string(targa);
+		return str;
     }    
 
 
