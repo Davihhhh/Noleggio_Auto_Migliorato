@@ -11,6 +11,7 @@ namespace Noleggio_Auto
     {
         static void Main(string[] args)
         {            
+
             //variabili di prova
             string marca = "audi";
             string modello = "r8";
@@ -21,7 +22,8 @@ namespace Noleggio_Auto
             double costo_noleggio = 50;
 
             Veicolo vc = new Veicolo(marca, modello, conducente, km_percorsi, benzina, costo_kasko, costo_noleggio, true);
-
+            string str = vc.ToString();
+            Console.WriteLine(str);
             //main
             Veicolo[] lista = new Veicolo[100];
             int contatore = 0;
