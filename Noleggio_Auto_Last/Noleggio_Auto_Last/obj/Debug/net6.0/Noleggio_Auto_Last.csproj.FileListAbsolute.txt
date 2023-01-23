@@ -1,0 +1,15 @@
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\bin\Debug\net6.0\Noleggio_Auto_Last.exe
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\bin\Debug\net6.0\Noleggio_Auto_Last.deps.json
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\bin\Debug\net6.0\Noleggio_Auto_Last.runtimeconfig.json
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\bin\Debug\net6.0\Noleggio_Auto_Last.dll
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\bin\Debug\net6.0\Noleggio_Auto_Last.pdb
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.csproj.AssemblyReference.cache
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.AssemblyInfoInputs.cache
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.AssemblyInfo.cs
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.csproj.CoreCompileInputs.cache
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.dll
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\refint\Noleggio_Auto_Last.dll
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.pdb
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\Noleggio_Auto_Last.genruntimeconfig.cache
+C:\Users\lin.19211\source\repos\Noleggio_Auto_Migliorato\Noleggio_Auto_Last\Noleggio_Auto_Last\obj\Debug\net6.0\ref\Noleggio_Auto_Last.dll

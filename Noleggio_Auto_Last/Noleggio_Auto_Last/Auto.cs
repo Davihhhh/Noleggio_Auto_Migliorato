@@ -238,9 +238,20 @@ public class Veicolo
     //funzioni pubbliche
     public override string ToString()
     {
-        string str = Targa + Sep + Marca + Sep + Modello + Sep + Conducente;
-        string others = Km_Percorsi.ToString() + Sep + Litri_Nel_Serbatoio_Iniziali.ToString() + Sep + Costo_Kasko.ToString() + Sep + Costo_Noleggio.ToString();
-        return str + Sep + others;
+        string str = "";
+        string others = "";
+        if (Conducente != null)
+        {
+            str = Targa + Sep + Marca + Sep + Modello + Sep + Conducente;
+            others = Km_Percorsi.ToString() + Sep + Litri_Nel_Serbatoio_Iniziali.ToString() + Sep + Costo_Kasko.ToString() + Sep + Costo_Noleggio.ToString();
+            return str + Sep + others;
+        }
+        else
+        {
+            str = Targa + Sep + Marca + Sep + Modello;
+            others = Litri_Nel_Serbatoio_Iniziali.ToString() + Sep + Costo_Kasko.ToString() + Sep + Costo_Noleggio.ToString();
+            return str + Sep + others;
+        }
     }
     public bool Equals(Veicolo v)
     {
